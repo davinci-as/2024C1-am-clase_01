@@ -1,6 +1,6 @@
 package zoo;
 
-public class Animal {
+public class Animales {
 
     public String makeSound() {
         return "sonido genérico";
